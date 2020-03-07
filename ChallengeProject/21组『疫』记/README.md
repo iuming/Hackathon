@@ -9,11 +9,11 @@
 ## Demo
 ![image](https://github.com/iuming/Hackathon/blob/master/ChallengeProject/21%E7%BB%84%E3%80%8E%E7%96%AB%E3%80%8F%E8%AE%B0/images/%E3%80%8E%E7%96%AB%E3%80%8F%E8%AE%B0.png)
 ## 团队成员
-**队长：**iuming          
+**队长：iuming**             
 *哈尔滨工程大学核科学与技术学院大三在读*             
-**队员：**Clarence            
+**队员：Clarence **            
 *黑龙江大学数据科学与技术学院大三在读*               
-**队员：**Cpt_cat            
+**队员：Cpt_cat**             
 *黑龙江大学软件学院大三在读*             
 ## 作品目前进度  
 小程序目前页面设计工作以完成，前后端开发正在进行，由于开发者都是~~乳臭未干的~~学生，所以开发速度比较慢，请谅解！
