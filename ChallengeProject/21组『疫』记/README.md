@@ -7,7 +7,7 @@
 前端：React      
 后台：Python    
 ## Demo
-[image]{https://github.com/iuming/Hackathon/blob/master/ChallengeProject/21%E7%BB%84%E3%80%8E%E7%96%AB%E3%80%8F%E8%AE%B0/images/%E3%80%8E%E7%96%AB%E3%80%8F%E8%AE%B0.png}
+![image](https://github.com/iuming/Hackathon/blob/master/ChallengeProject/21%E7%BB%84%E3%80%8E%E7%96%AB%E3%80%8F%E8%AE%B0/images/%E3%80%8E%E7%96%AB%E3%80%8F%E8%AE%B0.png)
 ## 作品目前进度
 小程序目前页面设计工作以完成，前后端开发正在进行，由于开发者都是~~乳臭未干的~~学生，所以开发速度比较慢，请谅解！
 ## 未来规划
